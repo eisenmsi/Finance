@@ -1,0 +1,5 @@
+return_stock(+1), return_stock(0), return_stock_market(+1), return_stock_market(0), PE_ratio, PE_ratio_market, alpha, beta
+
+time: 1995-2020
+
+Adidas
