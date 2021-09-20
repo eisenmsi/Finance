@@ -2,4 +2,4 @@ return_stock(+1), return_stock(0), return_stock_market(+1), return_stock_market(
 
 time: 1995-2020
 
-Apple, Amazon, Google, PepsiCo
+Apple, Amazon, Google, PepsiCo, Starbucks
